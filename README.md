@@ -1,15 +1,10 @@
 Analisis
 ========
 
-Estilo para cada persona
+#Facebook Proyect
 
-
-Guia de solucion
-===============
-
-*Galaria de jemplo para progeamadores
-
-Maestria General
-===============
-
-Afraid
+Estructura:
+1. Cógido html (`Estructura física`)
+2. Códgio css (`Estilo`)
+3. Código js (`Modo de entrada`)
+4. Imágenes (`Recurso gráfico`)
